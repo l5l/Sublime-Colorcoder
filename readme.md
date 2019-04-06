@@ -26,6 +26,7 @@ As the few language definitions provided by Sublime are insufficient for optimal
  - `Lua`
  - `Go`
  - `Ruby`
+ - `Autohotkey`
  - `CoffeeScript` ([via](https://github.com/aponxi/sublime-better-coffeescript/blob/master/CoffeeScript.tmLanguage) by @aponxi)
 
 for `JavaScript` please use the [`JavaScript Next` package](https://github.com/Benvie/JavaScriptNext.tmLanguage).
